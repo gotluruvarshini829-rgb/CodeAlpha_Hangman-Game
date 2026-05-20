@@ -37,7 +37,7 @@ If you guess the word correctly before attempts finish, you win.
 
 📷 Demo
 
-hangman.py - Visual Studio Code 2026-05-19 18-25-52 (1).mp4
+"C:\Users\gotlu\Downloads\hangman.py - Visual Studio Code 2026-05-19 18-25-52 (1) (5).mp4"
 
 📚 Learning Outcome
 
